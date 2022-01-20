@@ -10,7 +10,7 @@
 </li>
   <li>sudo apt install mysql-server
 </li>
-  <ol>sudo mysql_secure_installation Note: Choose options according to your choice
+  <li>sudo mysql_secure_installation Note: Choose options according to your choice
 </li>
   <li>sudo mysql
 </li>
@@ -57,4 +57,4 @@
   <li>Goto http://your_domain/http://Public_IP</li>
   <ul>
     <H4>RESULTS</h4>
-<img src=\>
+<img src="RESULT.PNG"\>
