@@ -1,9 +1,9 @@
 <h1> Webserver-configuration-using-Terraform</h1>
-<h6>LAMP Stack</h6>
+<h3>LAMP Stack</h3>
 <p>Perform following commands to set up your LAMP stack using mysql</p>
 <ul>Connect to ec2 instance
-  <ol>sudo apt update
-</ol>
+  <li>sudo apt update
+</li>
   <li>sudo apt install apache2
 </li>
   <li>sudo ufw app info "Apache Full"
