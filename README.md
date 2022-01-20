@@ -8,7 +8,7 @@
 </li>
   <li>sudo ufw app info "Apache Full"
 </li>
-  <ol>sudo apt install mysql-server
+  <li>sudo apt install mysql-server
 </li>
   <ol>sudo mysql_secure_installation Note: Choose options according to your choice
 </li>
