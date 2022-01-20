@@ -26,14 +26,14 @@
   <li>nano /var/www/your_domain/index.html
 </li>
   <li>Add following in the vim:
-  <html>
+ " <html>
     <head>
         <title>Welcome to Your_domain!</title>
     </head>
     <body>
         <h1>Success!  The your_domain server block is working!</h1>
     </body>
-</html></li>
+</html>"</li>
   <li>
   sudo nano /etc/apache2/sites-available/your_domain.conf
 </li>
